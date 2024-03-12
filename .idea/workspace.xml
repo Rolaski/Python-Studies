@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c052ed94-33a7-450f-aff5-e1cb29106d9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NumericalMethods/task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalMethods/task02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalMethods/task03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-Studies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Studies.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumericalMethods/task03.py" beforeDir="false" afterPath="$PROJECT_DIR$/NumericalMethods/task03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +38,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.summary1-3.executor": "Run",
     "Python.task01.executor": "Run",
     "Python.task02.executor": "Run",
     "Python.task03.executor": "Run",
     "Python.task06.executor": "Run",
+    "Python.task3.1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/Python-Studies",
+    "last_opened_file_path": "E:/Github/Python-Studies",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
