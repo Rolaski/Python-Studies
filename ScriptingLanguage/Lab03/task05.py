@@ -15,6 +15,7 @@ def histogram(file_path):
 
     return char_freq
 
+
 # Test the function
 file_path = "document.txt"
 result = histogram(file_path)
