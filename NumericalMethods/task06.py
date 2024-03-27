@@ -1,16 +1,25 @@
 # -*- coding: utf-8 -*-
 import math
+import sys
 
 
 def wartosc(x):
     return 3 * x - math.cos(x) - 1  # równanie 3x - cos(x) - 1 = 0
 
+def wartosc2(x):
+    return math.cos(x)
 
 epsilon = 0.00001  # margines błędu
 a = 0.25  # lewy koniec przedziału
 b = 0.75  # prawy koniec przedziału
 iteracje = 0
 x2 = 0
+
+if wartosc(a)*wartosc2(a) >0 or wartosc(b)*wartosc2(b) >0:
+    print("Warunek spełniony: f(x0) * f''(x0) > 0. Metoda stycznych będzie działać poprawnie.")
+else:
+    print("Uwaga: Warunek niespełniony: f(x0) * f''(x0) <= 0. Metoda stycznych może nie być zbieżna.")
+    sys.exit()
 
 x1 = a - (wartosc(a) / (wartosc(b) - wartosc(a))) * (b - a)
 
