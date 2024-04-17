@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c052ed94-33a7-450f-aff5-e1cb29106d9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NumericalMethods/task04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalMethods/task05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalMethods/task06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-Studies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Studies.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptingLanguage/Lab04/task02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptingLanguage/Lab04/task03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptingLanguage/Lab04/task04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptingLanguage/Lab04/task05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptingLanguage/Lab04/task06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptingLanguage/Lab04/task07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
